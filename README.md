@@ -1,6 +1,5 @@
 # React ToDo App
-[DEMO LINK](https://Leskoo.github.io/to_do/)
-- Follow the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline)
+[DEMO LINK](https://leskoo.github.io/to_do/)
 
 ## Description
 Implement simple [TODO app](http://todomvc.com/examples/vanillajs/)
