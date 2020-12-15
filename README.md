@@ -1,5 +1,5 @@
 # React ToDo App
-- Replace `<your_account>` with your Github username in the [DEMO LINK](https://leskoo.github.io/to_do/)
+[DEMO LINK](https://Leskoo.github.io/to_do/)
 - Follow the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline)
 
 ## Description
