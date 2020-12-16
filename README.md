@@ -1,6 +1,7 @@
 # React ToDo App
 [DEMO LINK](https://leskoo.github.io/to_do/)
 
+
 ## Description
 Implement simple [TODO app](http://todomvc.com/examples/vanillajs/)
 
@@ -10,8 +11,6 @@ Requirements:
 - TODO has two states: Active and Completed
 - user can filter between All, Active, and Completed TODOs
 - You can implement your own style or take them from the original sources
-  - [base.css](http://todomvc.com/examples/vanillajs/node_modules/todomvc-common/base.css)
-  - [index.css](http://todomvc.com/examples/vanillajs/node_modules/todomvc-app-css/index.css)
 
 Below are interactions with the app:
 ![todoapp](./description/todoapp.gif)
