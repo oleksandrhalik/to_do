@@ -1,5 +1,5 @@
 # React ToDo App
-[DEMO LINK](https://leskoo.github.io/to_do/)
+[DEMO LINK](https://oleksandrhalik.github.io/to_do/)
 
 
 ## Description
