@@ -3,7 +3,6 @@
 
 
 ## Description
-Implement simple [TODO app](http://todomvc.com/examples/vanillajs/)
 
 Requirements:
 - when app loads, user sees an input to enter their TODOs
