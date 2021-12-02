@@ -10,7 +10,6 @@ Requirements:
 - when user types some TODO and hits enter, it's added to the list below (see the gif)
 - TODO has two states: Active and Completed
 - user can filter between All, Active, and Completed TODOs
-- You can implement your own style or take them from the original sources
 
 Below are interactions with the app:
 ![todoapp](./description/todoapp.gif)
